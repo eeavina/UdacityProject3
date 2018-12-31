@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    position: relative;
+}
+
+/*
+ *
+ Modal styling
+ *
+ */
+.modal {
+    display: none;
+    z-index: 1;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    padding-left: 25%;
+    top: 15em;
+}
+
+.modal-content {
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid rgba(0,0,0,4);
+    border-radius: 10px;
+    width: 50%;
+    box-shadow: rgba(0,0,0,4) 10px 10px;
+}
+
+.close {
+    float: right;
+    font: bold 25px;
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+}
+
+p {
+    cursor: context-menu;
+}
