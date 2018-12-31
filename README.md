@@ -3,11 +3,11 @@
 Classic Arcade Game
 
 # 1 out of 5 modules
-Web Foundations
-Web Programming with JavaScript
+* Web Foundations
+* Web Programming with JavaScript
 * Exploring JS - Objects, Tools and Testing
-Front-End Applications
-Building with React
+* Front-End Applications
+* Building with React
 
 # Project Specification:
 ## Game functions:
